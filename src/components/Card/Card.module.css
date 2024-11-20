@@ -1,0 +1,25 @@
+.card {
+    width: 300px;
+    height: 150px;
+    border: 1px solid white;
+    background-color: purple;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.isDone {
+    background-color: green;
+}
+
+.btn {
+    margin-top: auto;
+    width: 100%;
+}
+
+.text {
+    padding: 10px;
+    white-space: pre-wrap;
+    overflow: hidden;
+}
